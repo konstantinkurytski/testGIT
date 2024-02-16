@@ -1,5 +1,5 @@
 public class testtt {
-    public void testttt{
+    public void testttt(){
         System.out.println("sdfvsdf");
     }
 }
