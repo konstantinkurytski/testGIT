@@ -1,7 +1,7 @@
 import org.testng.annotations.Test;
 
-public class test1 {
-    @Test public void test1(){
-        System.out.println("sdfv111111");
+public class test {
+    @Test public void test(){
+        System.out.println("sdfv");
     }
 }
